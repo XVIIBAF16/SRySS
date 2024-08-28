@@ -8,7 +8,7 @@ Password: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 ## Solución
 ![RetoBandit14](../imagenes/Bandit14(1).png)
 
-![RetoBandit14](../imagenes/Bandit14(2).png)
+![RetoBandit14 (1)](../imagenes/Bandit14(2).png)
 
 ## Notas adicionales
 ## Referencias
