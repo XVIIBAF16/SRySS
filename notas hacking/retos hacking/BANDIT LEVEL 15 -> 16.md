@@ -10,6 +10,6 @@ Password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ## Solución
 ![RetoBandit15](../imagenes/Bandit15(1).png)
 
-![RetoBandit15](../imagenes/Bandit15(2).png)
+![RetoBandit15](../imagenes/Bandit15(1).png)
 ## Notas adicionales
 ## Referencias
