@@ -8,6 +8,11 @@ Password: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 ## Solución
 ![RetoBandit14](../imagenes/Bandit14(1).png)
 
-![RetoBandit13](../imagenes/Bandit14(2).png)
+```
+bandit14@bandit:~$ nc localhost 30000
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+Correct!
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+```
 ## Notas adicionales
 ## Referencias

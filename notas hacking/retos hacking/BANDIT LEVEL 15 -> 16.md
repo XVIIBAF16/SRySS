@@ -10,7 +10,11 @@ Password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ## Solución
 ![RetoBandit15](../imagenes/Bandit15(1).png)
 
-![RetoBandit15](../imagenes/Bandit15(2).png)
-
+```
+bandit15@bandit:~$ ncat --ssl localhost 30001
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+Correct!
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+```
 ## Notas adicionales
 ## Referencias
