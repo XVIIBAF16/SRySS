@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a889f4bcdbbc801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos hacking/BANDIT LEVEL 16 -> 17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bab6be37260bccb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos hacking/BANDIT LEVEL 17 -> 18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be4c8ce16eb6c6b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos hacking/BANDIT LEVEL 18 -> 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e14ce69a65b8777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos hacking/BANDIT LEVEL 19 -> 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac6f5d7581a4219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos hacking/BANDIT LEVEL 20 -> 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c407ecb528eacaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos hacking/BANDIT LEVEL 21 -> 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos hacking/BANDIT LEVEL 15 -> 16.md",
+                "file": "retos hacking/BANDIT LEVEL 21 -> 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos hacking/BANDIT LEVEL 15 -> 16.md",
+                "file": "retos hacking/BANDIT LEVEL 21 -> 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos hacking/BANDIT LEVEL 15 -> 16.md"
+                "file": "retos hacking/BANDIT LEVEL 21 -> 22.md"
               }
             }
           }
@@ -146,10 +219,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3a4c71531c649bab",
+  "active": "1c407ecb528eacaa",
   "lastOpenFiles": [
-    "retos hacking/BANDIT LEVEL 14 -> 15.md",
+    "retos hacking/BANDIT LEVEL 20 -> 21.md",
+    "retos hacking/BANDIT LEVEL 21 -> 22.md",
+    "retos hacking/BANDIT LEVEL 19 -> 20.md",
+    "retos hacking/BANDIT LEVEL 18 -> 19.md",
+    "retos hacking/BANDIT LEVEL 17 -> 18.md",
+    "retos hacking/BANDIT LEVEL 16 -> 17.md",
     "retos hacking/BANDIT LEVEL 15 -> 16.md",
+    "retos hacking/BANDIT LEVEL 14 -> 15.md",
+    "retos hacking/BANDIT LEVEL 1 -> 2.md",
+    "retos hacking/Plantilla.md",
     "retos hacking/BANDIT LEVEL 13 -> 14.md",
     "retos hacking/BANDIT LEVEL 0 -> 1.md",
     "imagenes/bandit13(1).png",
@@ -167,7 +248,6 @@
     "imagenes/bandit14(1).png",
     "retos hacking/BANDIT LEVEL 9 -> 10.md",
     "retos hacking/BANDIT LEVEL 8 -> 9.md",
-    "retos hacking/Plantilla.md",
     "retos hacking/BANDIT 15 -> 16.md",
     "retos hacking/BANDIT LEVEL 7 -> 8.md",
     "retos hacking/BANDIT LEVEL 0.md",
@@ -175,11 +255,8 @@
     "retos hacking/BANDIT LEVEL 4 -> 5.md",
     "retos hacking/BANDIT LEVEL 3 -> 4.md",
     "retos hacking/BANDIT LEVEL 2 -> 3.md",
-    "retos hacking/BANDIT LEVEL 1 -> 2.md",
     "README.md",
     "Bandit1(1)png.md",
-    "imagenes.md",
-    "Bienvenido.md",
     "imagenes",
     "retos hacking"
   ]
