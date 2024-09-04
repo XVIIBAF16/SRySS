@@ -7,7 +7,7 @@ Password: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 ```
 ## Solución
 ```
-ssh bandit18@bandit.labs.overthewire.org -p2220 /bin/bash
+% ssh bandit18@bandit.labs.overthewire.org -p2220 /bin/bash
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

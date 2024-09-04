@@ -8,7 +8,7 @@ Password: gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 ```
 ## Solución
 ```
-fabianmartinezalonso@MacBook-Pro-de-Fabian ~ % ssh bandit24@bandit.labs.overthewire.org -p 2220
+% ssh bandit24@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

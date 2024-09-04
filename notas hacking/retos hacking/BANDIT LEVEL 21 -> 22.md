@@ -7,7 +7,7 @@ Password: EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 ```
 ## Solución
 ```
-ssh bandit21@bandit.labs.overthewire.org -p 2220
+% ssh bandit21@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

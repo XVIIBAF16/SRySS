@@ -9,7 +9,7 @@ Password: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 ```
 ## Solución
 ```
-ssh bandit16@bandit.labs.overthewire.org -p 2220
+% ssh bandit16@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

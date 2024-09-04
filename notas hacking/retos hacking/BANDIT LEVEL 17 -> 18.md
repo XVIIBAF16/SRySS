@@ -9,7 +9,7 @@ Password: EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
 ```
 ## Solución
 ```
-ssh bandit17@bandit.labs.overthewire.org -p 2220
+% ssh bandit17@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

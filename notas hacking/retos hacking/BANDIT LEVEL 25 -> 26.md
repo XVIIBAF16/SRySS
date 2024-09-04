@@ -9,7 +9,7 @@ Password: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 ```
 ## Solución
 ```
-ssh bandit25@bandit.labs.overthewire.org -p 2220
+% ssh bandit25@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

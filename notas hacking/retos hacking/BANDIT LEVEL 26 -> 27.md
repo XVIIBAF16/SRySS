@@ -7,7 +7,7 @@ Password: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 ```
 ## Solución
 ```
-fabianmartinezalonso@MacBook-Pro-de-Fabian phobex % ssh bandit26@bandit.labs.overthewire.org -p 2220       
+% ssh bandit26@bandit.labs.overthewire.org -p 2220       
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

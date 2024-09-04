@@ -7,7 +7,7 @@ Password: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 ```
 ## Solución
 ```
-ssh bandit19@bandit.labs.overthewire.org -p 2220
+% ssh bandit19@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|

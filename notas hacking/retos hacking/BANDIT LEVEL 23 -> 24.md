@@ -11,7 +11,7 @@ Password: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 ```
 ## Solución
 ```
-fabianmartinezalonso@MacBook-Pro-de-Fabian ~ % ssh bandit23@bandit.labs.overthewire.org -p 2220
+% ssh bandit23@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|
