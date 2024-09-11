@@ -7,7 +7,7 @@ What was I last working on? I remember writing a note to help me remember...You 
 ```
 drop-in % ls
 message.txt
-fabianmartinezalonso@MacBook-Pro-de-Fabian drop-in % cat message.txt 
+drop-in % cat message.txt 
 This is what I was working on, but I'd need to look at my commit history to know why...%                                                                              drop-in % git log
 commit 3339c144a0c78dc2fbd3403d2fb37d3830be5d94 (HEAD -> master)
 Author: picoCTF <ops@picoctf.com>
