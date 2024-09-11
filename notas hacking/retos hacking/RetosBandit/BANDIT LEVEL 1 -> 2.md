@@ -6,9 +6,9 @@ Username: Bandit2
 Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 ## Solución
-![RetoBandit2](../imagenes/Bandit2(1).png)
+![RetoBandit2](Bandit2(1).png)
 
-![RetoBandit2](../imagenes/Bandit2(2).png)
+![RetoBandit2](Bandit2(2).png)
 ## Notas adicionales
 ```
 ls -> listar directorios y archivos en el directorio actual

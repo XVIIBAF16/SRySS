@@ -7,9 +7,9 @@ Password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 ```
 ## Solución
 
-![RetoBandit11](../imagenes/Bandit11(1).png)
+![RetoBandit11](Bandit11(1).png)
 
-![RetoBandit11](../imagenes/Bandit11(2).png)
+![RetoBandit11](Bandit11(2).png)
 ## Notas adicionales
 ```
 cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'

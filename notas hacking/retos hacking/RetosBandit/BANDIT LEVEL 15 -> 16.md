@@ -8,7 +8,7 @@ Username: bandit15
 Password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```
 ## Solución
-![RetoBandit15](../imagenes/Bandit15(1).png)
+![RetoBandit15](bandit15(1).png)
 
 ```
 bandit15@bandit:~$ ncat --ssl localhost 30001

@@ -6,9 +6,9 @@ Username: bandit9
 Password: 4CKMh1JI91bUIZZPXDgGanal4xvAg0JM
 ```
 ## Solución
-![RetoBandit9](../imagenes/Bandit9(1).png)
+![RetoBandit9](Bandit9(1).png)
 
-![RetoBandit9](../imagenes/Bandit9(2).png)
+![RetoBandit9](Bandit9(2).png)
 ## Notas adicionales
 ```
 strings -> sirve para mostrar los strings de una archivo.
