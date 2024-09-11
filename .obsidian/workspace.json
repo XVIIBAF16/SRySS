@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "bc44bfdc04fbb428",
+    "id": "5d240c97ad432b90",
     "type": "split",
     "children": [
       {
-        "id": "275aa653339aa942",
+        "id": "bfbb3b31805e1daf",
         "type": "tabs",
         "children": [
           {
-            "id": "63f5be21a654fb4f",
+            "id": "e6d03d9c0aceb189",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Parcial01/RETOS RESTANTES.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "416d3ec446fae33a",
+    "id": "8fed485d9305eeb6",
     "type": "split",
     "children": [
       {
-        "id": "317c9fe5d2b558c8",
+        "id": "31a63594db4d6eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "63bf19294a87916d",
+            "id": "88101ee68de4f150",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "813198a8f8550f55",
+            "id": "35d2033fdb46f818",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "6afa97e8b23301e7",
+            "id": "cfee2b9a04614e14",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "d278f8f944174adc",
+    "id": "cd9f1e0a4ccb2c88",
     "type": "split",
     "children": [
       {
-        "id": "8ab05345892a5299",
+        "id": "a0c5d221a9a68443",
         "type": "tabs",
         "children": [
           {
-            "id": "afe8d70bb288b5e8",
+            "id": "8c6458edee6f47d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parcial01/RETOS RESTANTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "3e1768e4528218a4",
+            "id": "3ba7801619c9320d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Parcial01/RETOS RESTANTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5fe9d105576a82f5",
+            "id": "ac82b95907fcdb79",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "b1cb29f6b63c3d9c",
+            "id": "50b542764b6d3896",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Parcial01/RETOS RESTANTES.md"
+              }
             }
           }
         ]
@@ -138,47 +146,8 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "63f5be21a654fb4f",
+  "active": "e6d03d9c0aceb189",
   "lastOpenFiles": [
-    "retos hacking/RetosBandit/BANDIT LEVEL 32 -> 33.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 31 -> 32.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 30 -> 31.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 29 -> 30.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 28 -> 29.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 27 -> 28.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 26 -> 27.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 25 -> 26.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 23 -> 24.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 22 -> 23.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 21 -> 22.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 20 -> 21.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 19 -> 20.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 18 -> 19.md",
-    "retos hacking/Plantilla.md",
-    "retos hacking/RetosPicoCTF/Collaborative Development.md",
-    "retos hacking/RetosPicoCTF/Binary Search.md",
-    "retos hacking/RetosPicoCTF/binhexa.md",
-    "retos hacking/RetosPicoCTF/Blame Game.md",
-    "retos hacking/RetosPicoCTF/Time Machine.md",
-    "retos hacking/RetosPicoCTF/Super SSH.md",
-    "retos hacking/RetosBandit/BANDIT 15 -> 16.md",
-    "retos hacking/RetosBandit",
-    "retos hacking/RetosPicoCTF",
-    "retos hacking/BANDIT LEVEL 33 -> 34.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 4 -> 5.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 5 -> 6.md",
-    "retos hacking/RetosBandit/BANDIT LEVEL 8 -> 9.md",
-    "imagenes/bandit13(1).png",
-    "imagenes/Bandit12(1).png",
-    "imagenes/Bandit11(1).png",
-    "imagenes/Bandit12(2).png",
-    "imagenes/bandit14(2).png",
-    "imagenes/bandit13(3).png",
-    "imagenes/bandit13(3).png",
-    "imagenes/bandit13(2).png",
-    "imagenes/Bandit5(2).png",
-    "imagenes/bandit14(1).png",
-    "imagenes",
-    "retos hacking"
+    "Parcial01/RETOS RESTANTES.md"
   ]
 }

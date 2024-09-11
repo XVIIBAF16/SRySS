@@ -1,0 +1,1 @@
+Los retos restantes del parcial ya se habían resuelto anteriormente.
