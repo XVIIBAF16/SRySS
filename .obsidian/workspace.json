@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8890f20101094cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b39b78a847976cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2e7774ff043ac79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Retos faltantes de Web 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial01/RETOS RESTANTES.md",
+                "file": "Retos PicoCTF/Retos faltantes de Web 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial01/RETOS RESTANTES.md",
+                "file": "Retos PicoCTF/Retos faltantes de Web 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial01/RETOS RESTANTES.md"
+                "file": "Retos PicoCTF/Retos faltantes de Web 01.md"
               }
             }
           }
@@ -146,8 +183,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e6d03d9c0aceb189",
+  "active": "88101ee68de4f150",
   "lastOpenFiles": [
-    "Parcial01/RETOS RESTANTES.md"
+    "Retos PicoCTF/picobrowser.md",
+    "Retos PicoCTF/Retos faltantes de Web 01.md",
+    "notas hacking/retos hacking/Plantilla.md",
+    "Retos PicoCTF/Client-side-again.md",
+    "Kalinux.pdf",
+    "Parcial01/RETOS RESTANTES.md",
+    "Retos PicoCTF"
   ]
 }
