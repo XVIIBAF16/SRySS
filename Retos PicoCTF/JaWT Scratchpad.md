@@ -48,15 +48,16 @@ Ahora si podemos firmar nuestro token
 y nos da la flag.
 ```
 
-![JWT.png](../../imagenes/JWT.png)
+![JWT.png](/imagenes/JWT.png)
+)
 
-![JWT(2).png](../../imagenes/JWT(1).png)
+![JWT(2).png](/imagenes/JWT(1).png)
 
-![JWT(3).png](../../imagenes/JWT(3).png)
+![JWT(3).png](/imagenes/JWT(3).png)
 
-![JWT(4).png](../../imagenes/JWT(2).png)
+![JWT(4).png](/imagenes/JWT(2).png)
 
-![JWT(5).png](../../imagenes/JWT(4).png)
+![JWT(5).png](/imagenes/JWT(4).png)
 ## Notas adicionales
 
 ## Referencias

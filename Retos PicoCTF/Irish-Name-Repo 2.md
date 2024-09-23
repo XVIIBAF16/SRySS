@@ -17,8 +17,8 @@ Contraseña la quee sea y vemos que si funciona y nos muestra la flag en pantall
 ```
 
 
-![Irish2PicoCTF.png](../../imagenes/Irish2PicoCTF.png)
+![Irish2PicoCTF.png](/imagenes/Irish2PicoCTF.png)
 
-![Irish2PicoCTF(2).png](../../imagenes/Irish2PicoCTF(2).png)
+![Irish2PicoCTF(2).png](/imagenes/Irish2PicoCTF(2).png)
 ## Notas adicionales
 ## Referencias

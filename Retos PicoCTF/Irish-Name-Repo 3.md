@@ -23,10 +23,10 @@ y de esta fomra nos da acceso a la flag
 ```
 
 
-![Irish3PicoCTF.png](../../imagenes/Irish3PicoCTF.png)
+![Irish3PicoCTF.png](/imagenes/Irish3PicoCTF.png)
 
-![Irish3PicoCTF(2).png](../../imagenes/Irish3PicoCTF(2).png)
+![Irish3PicoCTF(2).png](/imagenes/Irish3PicoCTF(2).png)
 
-![Irish3PicoCTF(3).png](../../imagenes/Irish3PicoCTF(3).png)
+![Irish3PicoCTF(3).png](/imagenes/Irish3PicoCTF(3).png)
 ## Notas adicionales
 ## Referencias

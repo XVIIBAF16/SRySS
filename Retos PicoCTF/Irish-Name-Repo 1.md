@@ -26,10 +26,8 @@ y asi es como se gana acceso a la bandera en este reto
 
 
 
-![Irish1PicoCTF(1).png](../../imagenes/Irish1PicoCTF(1).png)
+![Irish1PicoCTF(1).png](/imagenes/Irish1PicoCTF(1).png)
 
-
-
-![Irish1PicoCTF.png](../../imagenes/Irish1PicoCTF.png)
+![Irish1PicoCTF.png](/imagenes/Irish1PicoCTF.png)
 ## Notas adicionales
 ## Referencias
