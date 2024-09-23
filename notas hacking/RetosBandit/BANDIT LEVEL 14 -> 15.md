@@ -6,7 +6,7 @@ Username: bandit14
 Password: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 ```
 ## Solución
-![RetoBandit14](bandit14(1).png)
+![RetoBandit14](/imagenes/bandit14(1).png)
 
 ```
 bandit14@bandit:~$ nc localhost 30000

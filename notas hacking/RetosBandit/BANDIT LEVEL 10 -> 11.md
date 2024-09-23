@@ -6,9 +6,9 @@ Username: bandit10
 Password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 ```
 ## Solución
-![RetoBandit10](Bandit10(1).png)
+![RetoBandit10](/imagenes/Bandit10(1).png)
 
-![RetoBandit10](Bandit10(2).png)
+![RetoBandit10](/imagenes/Bandit10(2).png)
 ## Notas adicionales
 ### Forma 1
 con paginas web de decode base64

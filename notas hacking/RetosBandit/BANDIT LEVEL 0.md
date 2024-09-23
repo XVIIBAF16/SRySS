@@ -8,9 +8,9 @@ Username: bandit0
 Password: bandit0
 ```
 ## Solución
-![RetoBandit0](RetoBandit0(1).png)
+![RetoBandit0](/imagenes/RetoBandit0(1).png)
 
-![RetoBandit0](RetoBandit0(2).png)
+![RetoBandit0](/imagenes/RetoBandit0(2).png)
 ## Notas adicionales
 
 whoami - para ver quieen soy en el servidor en este caso bandit0

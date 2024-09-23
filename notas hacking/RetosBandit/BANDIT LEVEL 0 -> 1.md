@@ -7,9 +7,9 @@ Username: Bandit1
 Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 ## Solución
-![RetoBandit1](Bandit1(1).png)
+![RetoBandit1](/imagenes/Bandit1(1).png)
 
-![RetoBandit1](Bandit1(2).png)
+![RetoBandit1](/imagenes/Bandit1(2).png)
 ## Notas adicionales
 ```
 ls -> listar directorios y archivos en el directorio actual.

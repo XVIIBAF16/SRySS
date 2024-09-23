@@ -6,9 +6,9 @@ Username: bandit4
 Password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 ```
 ## Solución
-![RetoBandit5](Bandit5(1).png)
+![RetoBandit5](/imagenes/Bandit5(1).png)
 
-![RetoBandit5](Bandit5(2).png)
+![RetoBandit5](/imagenes/Bandit5(2).png)
 ## Notas adicionales
 ```
 ls -R -> lista archivos de fomra recursiva.

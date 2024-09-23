@@ -6,11 +6,11 @@ Username: bandit4
 Password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```
 ## Solución
-![RetoBandit4](Bandit4(1).png)
+![RetoBandit4](/imagenes/Bandit4(1).png)
 
-![RetoBandit4](Bandit4(2).png)
+![RetoBandit4](/imagenes/Bandit4(2).png)
 
-![RetoBandit4](Bandit4(3).png)Notas adicionales
+![RetoBandit4](/imagenes/Bandit4(3).png)Notas adicionales
 ```
 ls -> listar directorios y archivos en el directorio actual.
 cd -> acceder a un dircetorio, en este caso a *inhere*.

@@ -7,7 +7,7 @@ Username: bandit13
 Password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ```
 ## Solución
-![RetoBandit13](bandit13(1).png)
+![RetoBandit13](/imagenes/bandit13(1).png)
 ```
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 MU4VWeTyJk8R0of1qqmcBPaLh7lDCPvS

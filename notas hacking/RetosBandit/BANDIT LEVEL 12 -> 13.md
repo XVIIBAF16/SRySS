@@ -7,9 +7,9 @@ Password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 ```
 ## Solución
 
-![RetoBandit12](Bandit12(1).png)
+![RetoBandit12](/imagenes/Bandit12(1).png)
 
-![RetoBandit12](Bandit12(2).png)
+![RetoBandit12](/imagenes/Bandit12(2).png)
 ## Notas adicionales
 
 ```

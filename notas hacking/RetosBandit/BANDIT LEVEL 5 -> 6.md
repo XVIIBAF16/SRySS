@@ -10,9 +10,9 @@ Username: bandit6
 Password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```
 ## Solución
-![RetoBandit6](Bandit6(1).png)
+![RetoBandit6](/imagenes/Bandit6(1).png)
 
-![RetoBandit6](Bandit6(2).png)
+![RetoBandit6](/imagenes/Bandit6(2).png)
 ## Notas adicionales
 ```
 find / -user bandit7 -group bandit6 -size 33c 2> /dev/null

@@ -6,9 +6,9 @@ Username: bandit8
 Password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 ```
 ## Solución
-![RetoBandit8](Bandit8(1).png)
+![RetoBandit8](/imagenes/Bandit8(1).png)
 
-![RetoBandit8](Bandit8(2).png)
+![RetoBandit8](/imagenes/Bandit8(2).png)
 
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 ## Notas adicionales
