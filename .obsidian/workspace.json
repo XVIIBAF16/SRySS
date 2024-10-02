@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trickster.md",
+                "file": "Retos PicoCTF/Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trickster.md",
+                "file": "Retos PicoCTF/Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trickster.md",
+                "file": "Retos PicoCTF/Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trickster.md"
+                "file": "Retos PicoCTF/Trickster.md"
               }
             }
           }
@@ -187,7 +187,7 @@
   "lastOpenFiles": [
     "imagenes/Trickster(5).png",
     "imagenes/Trickster(4).png",
-    "Trickster.md",
+    "Retos PicoCTF/Trickster.md",
     "imagenes/Trickster(3).png",
     "Retos PicoCTF/Irish-Name-Repo 3.md",
     "Retos PicoCTF/Most Cookies.md",
