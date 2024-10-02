@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1df392c432f72502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trickster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Most Cookies.md",
+                "file": "Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Most Cookies.md",
+                "file": "Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Most Cookies.md"
+                "file": "Trickster.md"
               }
             }
           }
@@ -171,17 +183,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6587f5df32e25eb",
+  "active": "58b8c2475cf20995",
   "lastOpenFiles": [
+    "imagenes/Trickster(5).png",
+    "imagenes/Trickster(4).png",
     "Trickster.md",
-    "imagenes/Trickster(2).png",
+    "imagenes/Trickster(3).png",
+    "Retos PicoCTF/Irish-Name-Repo 3.md",
     "Retos PicoCTF/Most Cookies.md",
-    "imagenes/Trickster(1).png",
+    "Retos PicoCTF/picobrowser.md",
     "notas hacking/Plantilla.md",
+    "imagenes/Trickster(2).png",
+    "imagenes/Trickster(1).png",
     "Retos PicoCTF/SOAP.md",
     "imagenes/SOAP(3).png",
     "imagenes/SOAP(2).png",
-    "Retos PicoCTF/picobrowser.md",
     "imagenes/SOAP(1).png",
     "Retos PicoCTF/JaWT Scratchpad.md",
     "imagenes/MostCookies.png"
