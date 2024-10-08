@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "daa66e4a65670eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57435838b6733ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0b96482c0e7982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/m00nwalk/m00nwalk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36c8be74f60009f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/WhitePages/WhitePages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dde1b977e5e81419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/shark_on_wire2/shark_on_wire2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d10909f263f7ef72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/like1000/like1000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f68b07006e8d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/c0rrupt/c0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b6966df07df8b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07fc306a1c2f450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d07801030feb5a25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a60bdc4d1d8eab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64cf5bbd73d941d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66d0533481ac80a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22254d13aeca096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "866440c5413b9976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/c0rrupt/c0rrupt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c647a7cf5bc28109",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/c0rrupt/c0rrupt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a8627731723cbcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdadc64583fb9ade",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retos PicoCTF/Forensic/c0rrupt/c0rrupt.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e3f68b07006e8d43",
+  "lastOpenFiles": [
+    "Retos PicoCTF/Forensic/shark_on_wire2/shark_on_wire2.md",
+    "Retos PicoCTF/Forensic/So Meta.md",
+    "imagenes/sharkonwire.png",
+    "Retos PicoCTF/Forensic/shark_on_wire2/capture.pcap",
+    "Retos PicoCTF/Forensic/shark_on_wire2/flag~",
+    "Retos PicoCTF/Forensic/shark_on_wire2/flag",
+    "Retos PicoCTF/Forensic/shark_on_wire2/capture-2.pcap",
+    "Retos PicoCTF/Forensic/like1000/like1000.md",
+    "Retos PicoCTF/Forensic/extensions.md",
+    "Retos PicoCTF/Forensic/like1000/flag.png",
+    "imagenes/like1000.png",
+    "Retos PicoCTF/Forensic/like1000/1.tar",
+    "Retos PicoCTF/Forensic/like1000/2.tar",
+    "Retos PicoCTF/Forensic/like1000/3.tar",
+    "Retos PicoCTF/Forensic/like1000/4.tar",
+    "Retos PicoCTF/Forensic/like1000/5.tar",
+    "Retos PicoCTF/Forensic/like1000/6.tar",
+    "Retos PicoCTF/Forensic/c0rrupt/c0rrupt.md",
+    "Retos PicoCTF/Forensic/c0rrupt/fixed.png",
+    "Retos PicoCTF/Forensic/c0rrupt/flag.png",
+    "Retos PicoCTF/Forensic/c0rrupt/flag.jpg",
+    "Retos PicoCTF/Forensic/WhitePages/WhitePages.md",
+    "imagenes/WhitePages2.png",
+    "imagenes/WhitePages.png",
+    "Retos PicoCTF/Forensic/m00nwalk/m00nwalk.md",
+    "Retos PicoCTF/Forensic/m00nwalk/flag.png",
+    "README.md",
+    "Retos PicoCTF/Forensic/shark on wire 1.md",
+    "Retos PicoCTF/Forensic/What Lies Within.md",
+    "Retos PicoCTF/Forensic/Glory of the Garden.md",
+    "notas hacking/Plantilla.md"
+  ]
+}
