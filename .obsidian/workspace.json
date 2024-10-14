@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fd813c621c2d607",
+            "id": "14519f39d408596a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
+                "file": "Retos-PicoCTF/Web/Irish-Name-Repo-1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "14519f39d408596a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagenes/Operation_Oni.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
+                "file": "Retos-PicoCTF/Web/Irish-Name-Repo-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
+                "file": "Retos-PicoCTF/Web/Irish-Name-Repo-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md"
+                "file": "Retos-PicoCTF/Web/Irish-Name-Repo-1.md"
               }
             }
           }
@@ -156,52 +146,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5fd813c621c2d607",
+  "active": "14519f39d408596a",
   "lastOpenFiles": [
-    "Retos PicoCTF/Forensic/Operation_Oni/Operation Oni.md",
+    "Retos-PicoCTF/Web/Client-side-again.md",
     "imagenes/Operation_Oni.png",
-    "Retos PicoCTF/Forensic/Operation_Orchid/Operation Orchid.md",
-    "Retos PicoCTF/Forensic/Sleuthkit_Apprentice/Sleuthkit Apprentice.md",
-    "Retos PicoCTF/Forensic/Sleuthkit_Intro/Sleuthkit Intro.md",
-    "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 12 -> 13.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 30 -> 31.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 9 -> 10.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 8 -> 9.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 7 -> 8.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 5 -> 6.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 4 -> 5.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 32 -> 33.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 31 -> 32.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 3 -> 4.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 29 -> 30.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 1 -> 2.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 28 -> 29.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 27 -> 28.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 26 -> 27.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 25 -> 26.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 24 -> 25.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 22 -> 23.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 23 -> 24.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 2 -> 3.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 21 -> 22.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 20 -> 21.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 19 -> 20.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 18 -> 19.md",
+    "Notas-hacking/Retos-Bandit/BANDIT LEVEL 10 -> 11.md",
+    "Notas-hacking/Retos-Bandit",
+    "Notas-hacking/RetosBandit",
+    "Notas-hacking",
+    "Retos-PicoCTF/Web/Resueltos-web-pt3",
+    "Retos-PicoCTF/Forensic/tunn3l-v1s10n",
+    "Retos-PicoCTF/Forensic/Matryoshka-doll",
+    "Retos-PicoCTF/Forensic/shark-on-wire-1",
+    "Retos-PicoCTF/Forensic/shark-on-wire2/flag",
+    "Retos-PicoCTF/Forensic/shark-on-wire2/capture.pcap",
+    "Retos-PicoCTF/Forensic/shark-on-wire2",
+    "Retos-PicoCTF/Forensic/MacroHard-WeakEdge/docProps/thumbnail.jpeg",
+    "Retos-PicoCTF/Forensic/MacroHard_WeakEdge/docProps/thumbnail.jpeg",
+    "Retos-PicoCTF/Forensic/like1000/flag.png",
+    "Retos-PicoCTF/Forensic/c0rrupt/flag.png",
+    "Retos-PicoCTF/Forensic/c0rrupt/fixed.png",
+    "Retos-PicoCTF/Forensic/Milkslap/concat_v.png",
     "Retos PicoCTF/Forensic/Milkslap/concat_v.png",
-    "Retos PicoCTF/Forensic/Milkslap/Milkslap.md",
     "Retos PicoCTF/Forensic/concat_v.png",
-    "Retos PicoCTF/concat_v.png",
-    "concat_v.png",
-    "imagenes/Milkslap(1).png",
-    "imagenes/Milkslap.png",
-    "imagenes/JWT(2).png",
-    "Sin títulol.md",
-    "Parcial02",
-    "Retos PicoCTF/Forensic/m00nwalk/m00nwalk.md",
-    "Retos PicoCTF/Forensic/Sleuthkit_Intro/disk.img",
-    "Retos PicoCTF/Forensic/Sleuthkit_Intro",
-    "Retos PicoCTF/Forensic/Sleuthkit_Apprentice/disk.flag.img",
-    "Retos PicoCTF/Forensic/Sleuthkit_Apprentice",
-    "Retos PicoCTF/Forensic/Operation_Orchid/flag.txt.enc",
-    "Retos PicoCTF/Forensic/Operation_Orchid/flag.txt",
-    "Retos PicoCTF/Forensic/Operation_Orchid/disk.flag.img",
-    "Retos PicoCTF/Forensic/Operation_Orchid",
-    "Retos PicoCTF/Forensic/Operation_Oni/key_file",
-    "imagenes/flag.png",
-    "Retos PicoCTF/Forensic/shark_on_wire2/shark_on_wire2.md",
-    "Retos PicoCTF/Forensic/What Lies Within/What Lies Within.md",
-    "Retos PicoCTF/Forensic/Matryoshka doll/Matryoshka doll.md",
-    "Retos PicoCTF/Forensic/WebNet1/WebNet1.md",
-    "Retos PicoCTF/Forensic/WebNet0/WebNet0.md",
-    "Retos PicoCTF/Forensic/MacroHard_WeakEdge/MacroHard WeakEdge.md",
-    "Retos PicoCTF/Forensic/c0rrupt/c0rrupt.md",
-    "Retos PicoCTF/Forensic/like1000/like1000.md",
-    "README.md",
-    "Retos PicoCTF/Forensic/shark on wire 1/shark on wire 1.md",
-    "Retos PicoCTF/Forensic/Glory of the Garden/Glory of the Garden.md",
-    "extenions.md",
-    "extensions.md",
-    "Retos PicoCTF/Forensic/tunn3l v1s10n/tunn3l v1s10n.md",
-    "imagenes/WeebNet1.png",
-    "notas hacking/Plantilla.md",
-    "Retos PicoCTF/Forensic/So Meta/So Meta.md",
-    "Retos PicoCTF/Forensic/extensions/extensions.md"
+    "Retos PicoCTF/concat_v.png"
   ]
 }
