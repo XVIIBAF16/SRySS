@@ -6,7 +6,6 @@ Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in thi
 En este reto nos proporcionan un archivo .img.gz, viendo la descripcion del reto nos damos cuenta que teenemos que buscar en los strings del archivo asi que usamos el comando strings y grep para encontrar la flag:
 ```
 
-
 ```
 % strings dds1-alpine.flag.img | grep picoCTF
   SAY picoCTF{f0r3ns1c4t0r_n30phyt3_a6f4cab5}
