@@ -2,6 +2,7 @@
 [🥛](http://mercury.picoctf.net:5013/)
 ## Solución
 
+
 ```
 En este reto nos proporcionan una pagina web
 ```
