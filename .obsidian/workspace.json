@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d893bedc0771868b",
+        "id": "c85b768d23b57a1a",
         "type": "tabs",
         "children": [
           {
-            "id": "b27567490ca7225a",
+            "id": "5fd813c621c2d607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Operation_Oni/Operation Oni.md",
+                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "14519f39d408596a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Operation_Oni.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Operation_Oni/Operation Oni.md",
+                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Operation_Oni/Operation Oni.md",
+                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Forensic/Operation_Oni/Operation Oni.md"
+                "file": "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md"
               }
             }
           }
@@ -146,15 +156,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b27567490ca7225a",
+  "active": "5fd813c621c2d607",
   "lastOpenFiles": [
-    "Retos PicoCTF/Forensic/Milkslap/concat_v.png",
     "Retos PicoCTF/Forensic/Operation_Oni/Operation Oni.md",
+    "imagenes/Operation_Oni.png",
     "Retos PicoCTF/Forensic/Operation_Orchid/Operation Orchid.md",
     "Retos PicoCTF/Forensic/Sleuthkit_Apprentice/Sleuthkit Apprentice.md",
     "Retos PicoCTF/Forensic/Sleuthkit_Intro/Sleuthkit Intro.md",
     "Retos PicoCTF/Forensic/Disk_disk_sleuth/Disk, disk, sleuth!.md",
+    "Retos PicoCTF/Forensic/Milkslap/concat_v.png",
     "Retos PicoCTF/Forensic/Milkslap/Milkslap.md",
+    "Retos PicoCTF/Forensic/concat_v.png",
+    "Retos PicoCTF/concat_v.png",
+    "concat_v.png",
+    "imagenes/Milkslap(1).png",
+    "imagenes/Milkslap.png",
+    "imagenes/JWT(2).png",
     "Sin títulol.md",
     "Parcial02",
     "Retos PicoCTF/Forensic/m00nwalk/m00nwalk.md",
@@ -184,14 +201,7 @@
     "Retos PicoCTF/Forensic/tunn3l v1s10n/tunn3l v1s10n.md",
     "imagenes/WeebNet1.png",
     "notas hacking/Plantilla.md",
-    "Retos PicoCTF/Forensic/MacroHard_WeakEdge/docProps/thumbnail.jpeg",
     "Retos PicoCTF/Forensic/So Meta/So Meta.md",
-    "imagenes/sharkonwire.png",
-    "Retos PicoCTF/Forensic/extensions/extensions.md",
-    "Retos PicoCTF/Forensic/like1000/flag.png",
-    "imagenes/like1000.png",
-    "Retos PicoCTF/Forensic/c0rrupt/fixed.png",
-    "Retos PicoCTF/Forensic/c0rrupt/flag.png",
-    "Retos PicoCTF/Forensic/c0rrupt/flag.jpg"
+    "Retos PicoCTF/Forensic/extensions/extensions.md"
   ]
 }

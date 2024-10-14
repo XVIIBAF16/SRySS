@@ -35,7 +35,7 @@ d/d 1995:	root
 ++ r/r 2371:	flag.uni.txt
 
 
-Se muestra en el writeup solo lo que nos interesa, vemos qu ehay varios archivos llamados flag asi que los vemoss con icat:
+Se muestra en el writeup solo lo que nos interesa, vemos que hay varios archivos llamados flag asi que los vemos con icat:
 ```
 
 ```
@@ -49,7 +49,7 @@ vemos que no hay mada interesante aqui asi que vemos el otro archivo:
 Sleuthkit_Apprentice % icat -o 0000360448 disk.flag.img 2371
 picoCTF{by73_5urf3r_2f22df38}
 
-Y encontramos la flag
+Y encontramos la flag.
 ```
 ## Notas adicionales
 ## Referencias

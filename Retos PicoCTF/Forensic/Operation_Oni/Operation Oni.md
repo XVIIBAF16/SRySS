@@ -6,7 +6,7 @@ Download this disk image, find the key and log into the remote machine.Note: if 
 ## Solución
 
 ```
-En este reto nos dan un archivo .img y un comando ssh para conectarnos con la maquina de forma remota, extrayendo la key o password del ussuario del archivo img asi que eejecutamos slos iguientees comandos:
+En este reto nos dan un archivo .img y un comando ssh para conectarnos con la maquina de forma remota, extrayendo la key o password del ussuario del archivo img asi que ejecutamos slos iguientes comandos:
 ```
 
 ```

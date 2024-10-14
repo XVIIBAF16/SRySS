@@ -3,7 +3,7 @@ Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in thi
 ## Solución
 
 ```
-En este reto nos proporcionan un archivo .img.gz, viendo la descripcion del reto nos damos cuenta que teenemos que buscar en los strings del archivo asi que usamos el cmando strings y grep para encontrar la flag:
+En este reto nos proporcionan un archivo .img.gz, viendo la descripcion del reto nos damos cuenta que teenemos que buscar en los strings del archivo asi que usamos el comando strings y grep para encontrar la flag:
 ```
 
 ```

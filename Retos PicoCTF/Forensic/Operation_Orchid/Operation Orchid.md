@@ -5,7 +5,7 @@ Download this disk image and find the flag.Note: if you are using the webshell, 
 ## Solución
 
 ```
-En este reto nos dan un archivo .img el ccual analizaremos para encontrar la flag con los siguientees comandos:
+En este reto nos dan un archivo .img el ccual analizaremos para encontrar la flag con los siguientes comandos:
 ```
 
 ```
@@ -71,7 +71,7 @@ Operation_Orchid % openssl aes256 -salt -d -in flag.txt.enc -out flag.txt -k unb
 ```
 
 ```
-Vemos el conetnido de flag.txt y nos encontramos con la bandera dessencriptada:
+Vemos el conetnido de flag.txt y nos encontramos con la bandera desencriptada:
 
 Operation_Orchid % cat flag.txt
 picoCTF{h4un71ng_p457_5113beab}

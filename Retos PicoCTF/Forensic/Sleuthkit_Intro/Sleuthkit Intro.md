@@ -24,6 +24,7 @@ Units are in 512-byte sectors
 ```
 En base a la informacion metemos el tamano de la ultima particion para poder conectarnos a nc ya que al ejeecutarlo nos pide:
 
+
 What is the size of the Linux partition in the given disk image?
 ```
 
