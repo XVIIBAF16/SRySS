@@ -1,7 +1,7 @@
 ## Objetivo
 Reto network
 ## Solución
-
+Resuelto por: Externo: TumbaBurras
 ```
 En este reto tuvimos quee sacar una imagen y un comprimido de una captura de red
 ```

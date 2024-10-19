@@ -1,6 +1,7 @@
 ## Objetivo
 Hacer OSINT a un perfil de facebook
 ## Solución
+Resuelto por: Fabian Martinez Alonso
 
 ```
 En el reto nos proporcionaban un link de facebook para hacer Osint al perfil

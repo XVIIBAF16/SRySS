@@ -1,6 +1,7 @@
 ## Objetivo
 Reto Crypto
 ## Solución
+Resuelto por: Externo: Peche
 
 ```
 En este reto proporcionaban una serie de caracteres y numeros que al pareecer estaban encriptados, para desencriptarlo se uso un script:

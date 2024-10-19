@@ -1,7 +1,7 @@
 ## Objetivo
 Reto web
 ## Solución
-
+Resuelto por: Externo: TumbaBurras
 ```
 En este reto proporcionaban una pagina web
 ```

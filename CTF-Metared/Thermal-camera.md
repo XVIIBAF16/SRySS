@@ -1,6 +1,7 @@
 ## Objetivo
 Reto MISC
 ## Solución
+Resuelto por: Externo: TumbaBurras
 
 ```
 En este reto proporcionaban una imagen con informacion importante
