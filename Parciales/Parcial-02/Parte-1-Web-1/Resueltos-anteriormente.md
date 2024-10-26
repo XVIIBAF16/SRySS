@@ -1,0 +1,5 @@
+[Bookmarklet](https://play.picoctf.org/practice/challenge/406)
+[Includes](https://play.picoctf.org/practice/challenge/274)
+[Inspect HTML](https://play.picoctf.org/practice/challenge/275)
+[Local Authority](https://play.picoctf.org/practice/challenge/278)
+[Search source](https://play.picoctf.org/practice/challenge/295)
