@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f36b9573545c8415",
+        "id": "0d1fd2ee95007a62",
         "type": "tabs",
         "children": [
           {
-            "id": "3fed3cb2acb640fa",
+            "id": "cc0f89652c4a1711",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3fed3cb2acb640fa",
+  "active": "cc0f89652c4a1711",
   "lastOpenFiles": [
+    "Retos-PicoCTF/Reversing/vault-door-5/vault-door-5.md",
+    "Retos-PicoCTF/Reversing/vault-door-5/exp.py",
+    "Retos-PicoCTF/Reversing/vault-door-4/vault-door-4.md",
+    "Retos-PicoCTF/Reversing/vault-door-4/exp.py",
+    "Retos-PicoCTF/Reversing/vault-door-3/vault-door-3.md",
+    "Retos-PicoCTF/Reversing/vault-door-1/vault-door-1.md",
+    "Retos-PicoCTF/Reversing/vault-door-3/exp.py",
+    "Retos-PicoCTF/Reversing/vault-door-1/exp.py",
+    "Retos-PicoCTF/Plantilla.md",
+    "Retos-PicoCTF/Reversing/vault-door-5/VaultDoor5.java",
+    "Retos-PicoCTF/Reversing/vault-door-4/VaultDoor4.java",
+    "Retos-PicoCTF/Reversing/vault-door-5",
+    "Retos-PicoCTF/Reversing/vault-door-4",
+    "Retos-PicoCTF/Reversing/vault-door-3/VaultDoor3.java",
+    "Retos-PicoCTF/Reversing/vault-door-3",
     "Parciales/Parcial-02/Parte-2-Web-2/Who-are-you.md",
     "imagenes/Who-are-you(6).png",
     "imagenes/Who-are-you(6)2.png",
@@ -178,19 +193,10 @@
     "Parciales/Parcial-02/Parte-4-Forensic-2/St3g0/St3g0.md",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Pitter-Patter-Platters.md",
     "Parciales/Parcial-02/Parte-4-Forensic-2/advanced-potion-making/advanced-potion-making.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Wireshark-twoo-twooo-two-twoo/shark2.pcapng",
-    "Parciales/Parcial-02/Plantilla.md",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/Redaction-gone-wrong.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/Financial_Report_for_ABC_Labs.txt",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/pdftotext",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/Financial_Report_for_ABC_Labs.pdf",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/exp",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/suspicious.dd.sda1",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Lookey-here/Lookey-here.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Lookey-here/anthem.flag.txt",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Disk, disk, sleuth! II.md",
     "imagenes/advanced-potion-making.png.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/advanced-potion-making/advanced-potion-making",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Resueltos-anteriormente.md",
     "Parciales/Parcial-02/Parte-3-Forensic-1/PcapPoisoning/PcapPoisoning.md",
     "Parciales/Parcial-02/Parte-3-Forensic-1/Packets-Primer/Packets-Primer.md",
@@ -198,12 +204,6 @@
     "Parciales/Parcial-02/Parte-3-Forensic-1/MSB/MSB.md",
     "imagenes/PcapPoisoning.png.md",
     "Parciales/Parcial-02/Parte-3-Forensic-1/Eavesdrop/Eavesdrop.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/PcapPoisoning/trace.pcap",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/Packets-Primer/network-dump.flag.pcap",
-    "README.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/FindAndOpen/FindAndOpen.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/Enhance/Enhance.md",
-    "imagenes/Eavesdrop(1).png.md",
-    "Parciales/Parcial-02/Parte-2-Web-2/caas.md"
+    "README.md"
   ]
 }
