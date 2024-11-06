@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc0f89652c4a1711",
+            "id": "f1d932a861ead0f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Retos-PicoCTF/Reversing/Parte-03/asm4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "asm4"
             }
           }
         ]
@@ -158,25 +162,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c16c61dbe342737",
+  "active": "f1d932a861ead0f4",
   "lastOpenFiles": [
-    "Retos-PicoCTF/Reversing/Parte-01",
-    "Sin título.md",
+    "Retos-PicoCTF/Reversing/Parte-03/asm4/test.S",
+    "Retos-PicoCTF/Reversing/Parte-03/asm4/solve",
+    "Retos-PicoCTF/Reversing/Parte-03/asm4/solve.c",
+    "Retos-PicoCTF/Reversing/Parte-03/asm4/test (1).S",
+    "Retos-PicoCTF/Reversing/Parte-03/asm3/test_modi.S",
+    "test_modi.o",
+    "Retos-PicoCTF/Reversing/Parte-03/asm3/solve.c",
+    "solve.c",
+    "Retos-PicoCTF/Reversing/Parte-03/asm3/test_modi.o",
+    "Retos-PicoCTF/Reversing/Parte-03/asm3/test.S",
+    "Retos-PicoCTF/Reversing/Parte-03/asm3/solve.o",
+    "Retos-PicoCTF/Reversing/Parte-03/asm3.md",
+    "Retos-PicoCTF/Reversing/Parte-03/asm4.md",
+    "Retos-PicoCTF/Reversing/Parte-03/asm2.md",
+    "Retos-PicoCTF/Reversing/Parte-03/asm1.md",
+    "Retos-PicoCTF/Plantilla.md",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-5.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-5/exp.py",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-4.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-4/exp.py",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-3.md",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-1.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-3/exp.py",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-1/exp.py",
-    "Retos-PicoCTF/Plantilla.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-5/VaultDoor5.java",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-4/VaultDoor4.java",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-5",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-4",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-3/VaultDoor3.java",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-3",
     "Parciales/Parcial-02/Parte-2-Web-2/Who-are-you.md",
     "imagenes/Who-are-you(6).png",
     "imagenes/Who-are-you(6)2.png",
@@ -202,9 +209,6 @@
     "Parciales/Parcial-02/Parte-4-Forensic-2/Resueltos-anteriormente.md",
     "Parciales/Parcial-02/Parte-3-Forensic-1/PcapPoisoning/PcapPoisoning.md",
     "Parciales/Parcial-02/Parte-3-Forensic-1/Packets-Primer/Packets-Primer.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/Resueltos-anteriormente.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/MSB/MSB.md",
-    "imagenes/PcapPoisoning.png.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/Eavesdrop/Eavesdrop.md"
+    "Parciales/Parcial-02/Parte-3-Forensic-1/Resueltos-anteriormente.md"
   ]
 }
