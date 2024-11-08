@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1fd2ee95007a62",
+        "id": "e75748bacbd5c6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d932a861ead0f4",
+            "id": "03bfc0c5fc3d3252",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-PicoCTF/Reversing/Parte-03/asm4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "asm4"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -162,39 +158,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f1d932a861ead0f4",
+  "active": "03bfc0c5fc3d3252",
   "lastOpenFiles": [
-    "Retos-PicoCTF/Reversing/Parte-03/asm4/test.S",
-    "Retos-PicoCTF/Reversing/Parte-03/asm4/solve",
-    "Retos-PicoCTF/Reversing/Parte-03/asm4/solve.c",
+    "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher.md",
+    "imagenes/reverse.jpeg",
+    "imagenes/reverse(1).jpeg",
+    "imagenes/NFS.jpeg",
+    "Retos-PicoCTF/Reversing/Parte-04/Need-For-Speed.md",
+    "Retos-PicoCTF/Reversing/Parte-04/GDB-Test-Drive.md",
+    "Retos-PicoCTF/Reversing/Parte-04/asm4.md",
+    "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher/rev_this",
+    "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher/rev",
+    "imagenes/NFS(3).jpeg",
+    "imagenes/NFS(1).jpeg",
+    "imagenes/GDB.jpeg",
+    "imagenes/GDB(1).jpeg",
+    "imagenes/Milkslap.png",
+    "Retos-PicoCTF/Forensic/Milkslap/Milkslap.md",
+    "Retos-PicoCTF/Forensic/Milkslap/concat_v.png",
+    "Retos-PicoCTF/Forensic/WebNet0/WebNet0.md",
+    "Retos-PicoCTF/Plantilla.md",
+    "Sin nombre",
+    "Retos-PicoCTF/Reversing/Parte-04/asm4/test.S",
+    "Retos-PicoCTF/Reversing/Parte-04/asm4/solve",
+    "Retos-PicoCTF/Reversing/Parte-04/asm4/solve.c",
     "Retos-PicoCTF/Reversing/Parte-03/asm4/test (1).S",
     "Retos-PicoCTF/Reversing/Parte-03/asm3/test_modi.S",
     "test_modi.o",
     "Retos-PicoCTF/Reversing/Parte-03/asm3/solve.c",
-    "solve.c",
-    "Retos-PicoCTF/Reversing/Parte-03/asm3/test_modi.o",
-    "Retos-PicoCTF/Reversing/Parte-03/asm3/test.S",
-    "Retos-PicoCTF/Reversing/Parte-03/asm3/solve.o",
     "Retos-PicoCTF/Reversing/Parte-03/asm3.md",
-    "Retos-PicoCTF/Reversing/Parte-03/asm4.md",
     "Retos-PicoCTF/Reversing/Parte-03/asm2.md",
     "Retos-PicoCTF/Reversing/Parte-03/asm1.md",
-    "Retos-PicoCTF/Plantilla.md",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-5.md",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-4.md",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-3.md",
     "Retos-PicoCTF/Reversing/Parte-01/vault-door-1.md",
     "Parciales/Parcial-02/Parte-2-Web-2/Who-are-you.md",
     "imagenes/Who-are-you(6).png",
-    "imagenes/Who-are-you(6)2.png",
-    "imagenes/Who-are-you(5)2.png",
-    "imagenes/Who-are-you(5).png",
-    "imagenes/Who-are-you(4)2.png",
-    "imagenes/Who-are-you(4).png",
-    "imagenes/Who-are-you(3)2.png",
-    "imagenes/Who-are-you(3).png",
-    "imagenes/Who-are-you(2)2.png",
-    "imagenes/Who-are-you(2).png",
     "Parciales/Parcial-02/Parte-2-Web-2/Resueltos-anteriormente.md",
     "Parciales/Parcial-02/Parte-2-Web-2/Java-Code-Analysis.md",
     "Parciales/Parcial-02/Parte-2-Web-2/It-is-my-Birthday/It-is-my-Birthday.md",
@@ -204,11 +204,6 @@
     "Parciales/Parcial-02/Parte-4-Forensic-2/advanced-potion-making/advanced-potion-making.md",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/Redaction-gone-wrong.md",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Lookey-here/Lookey-here.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Disk, disk, sleuth! II.md",
-    "imagenes/advanced-potion-making.png.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Resueltos-anteriormente.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/PcapPoisoning/PcapPoisoning.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/Packets-Primer/Packets-Primer.md",
-    "Parciales/Parcial-02/Parte-3-Forensic-1/Resueltos-anteriormente.md"
+    "Parciales/Parcial-02/Parte-4-Forensic-2/Disk, disk, sleuth! II.md"
   ]
 }
