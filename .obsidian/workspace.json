@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acf6f98a3cb52432",
+        "id": "21bb693bd7b61916",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc1e48522c3af0d",
+            "id": "176e63d583aacb97",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,22 +158,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3bc1e48522c3af0d",
+  "active": "6c16c61dbe342737",
   "lastOpenFiles": [
-    "Retos-PicoCTF/Binary-Explotation/Stonks.md",
-    "Retos-PicoCTF/Binary-Explotation/flag-leak.md",
-    "Retos-PicoCTF/Binary-Explotation/basic-file-exploit.md",
-    "Retos-PicoCTF/Binary-Explotation/Stonks/vuln.c",
-    "Retos-PicoCTF/Binary-Explotation/Stonks",
-    "Retos-PicoCTF/Binary-Explotation/RPS.md",
-    "Retos-PicoCTF/Binary-Explotation/RPS/game-redacted.c",
-    "Retos-PicoCTF/Binary-Explotation/RPS",
-    "Retos-PicoCTF/Binary-Explotation/flag-leak/vuln.c",
-    "Retos-PicoCTF/Binary-Explotation/flag-leak/vuln",
-    "Retos-PicoCTF/Binary-Explotation/flag-leak",
-    "Retos-PicoCTF/Binary-Explotation/buffer overflow 0.md",
-    "Retos-PicoCTF/Binary-Explotation/basic-file-exploit/program-redacted.c",
-    "Retos-PicoCTF/Binary-Explotation/basic-file-exploit",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/basic-file-exploit.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks/vuln.c",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS/game-redacted.c",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak/vuln.c",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak/vuln",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/buffer overflow 0.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/basic-file-exploit/program-redacted.c",
+    "Retos-PicoCTF/Binary-Explotation/Parte-01/basic-file-exploit",
     "Retos-PicoCTF/Plantilla.md",
     "Retos-PicoCTF/Binary-Explotation",
     "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher.md",
