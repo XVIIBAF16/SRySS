@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e75748bacbd5c6ef",
+        "id": "acf6f98a3cb52432",
         "type": "tabs",
         "children": [
           {
-            "id": "03bfc0c5fc3d3252",
+            "id": "3bc1e48522c3af0d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "03bfc0c5fc3d3252",
+  "active": "3bc1e48522c3af0d",
   "lastOpenFiles": [
+    "Retos-PicoCTF/Binary-Explotation/Stonks.md",
+    "Retos-PicoCTF/Binary-Explotation/flag-leak.md",
+    "Retos-PicoCTF/Binary-Explotation/basic-file-exploit.md",
+    "Retos-PicoCTF/Binary-Explotation/Stonks/vuln.c",
+    "Retos-PicoCTF/Binary-Explotation/Stonks",
+    "Retos-PicoCTF/Binary-Explotation/RPS.md",
+    "Retos-PicoCTF/Binary-Explotation/RPS/game-redacted.c",
+    "Retos-PicoCTF/Binary-Explotation/RPS",
+    "Retos-PicoCTF/Binary-Explotation/flag-leak/vuln.c",
+    "Retos-PicoCTF/Binary-Explotation/flag-leak/vuln",
+    "Retos-PicoCTF/Binary-Explotation/flag-leak",
+    "Retos-PicoCTF/Binary-Explotation/buffer overflow 0.md",
+    "Retos-PicoCTF/Binary-Explotation/basic-file-exploit/program-redacted.c",
+    "Retos-PicoCTF/Binary-Explotation/basic-file-exploit",
+    "Retos-PicoCTF/Plantilla.md",
+    "Retos-PicoCTF/Binary-Explotation",
     "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher.md",
     "imagenes/reverse.jpeg",
     "imagenes/reverse(1).jpeg",
@@ -167,8 +183,6 @@
     "Retos-PicoCTF/Reversing/Parte-04/Need-For-Speed.md",
     "Retos-PicoCTF/Reversing/Parte-04/GDB-Test-Drive.md",
     "Retos-PicoCTF/Reversing/Parte-04/asm4.md",
-    "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher/rev_this",
-    "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher/rev",
     "imagenes/NFS(3).jpeg",
     "imagenes/NFS(1).jpeg",
     "imagenes/GDB.jpeg",
@@ -177,15 +191,6 @@
     "Retos-PicoCTF/Forensic/Milkslap/Milkslap.md",
     "Retos-PicoCTF/Forensic/Milkslap/concat_v.png",
     "Retos-PicoCTF/Forensic/WebNet0/WebNet0.md",
-    "Retos-PicoCTF/Plantilla.md",
-    "Sin nombre",
-    "Retos-PicoCTF/Reversing/Parte-04/asm4/test.S",
-    "Retos-PicoCTF/Reversing/Parte-04/asm4/solve",
-    "Retos-PicoCTF/Reversing/Parte-04/asm4/solve.c",
-    "Retos-PicoCTF/Reversing/Parte-03/asm4/test (1).S",
-    "Retos-PicoCTF/Reversing/Parte-03/asm3/test_modi.S",
-    "test_modi.o",
-    "Retos-PicoCTF/Reversing/Parte-03/asm3/solve.c",
     "Retos-PicoCTF/Reversing/Parte-03/asm3.md",
     "Retos-PicoCTF/Reversing/Parte-03/asm2.md",
     "Retos-PicoCTF/Reversing/Parte-03/asm1.md",
@@ -199,11 +204,6 @@
     "Parciales/Parcial-02/Parte-2-Web-2/Java-Code-Analysis.md",
     "Parciales/Parcial-02/Parte-2-Web-2/It-is-my-Birthday/It-is-my-Birthday.md",
     "Parciales/Parcial-02/Parte-4-Forensic-2/Wireshark-twoo-twooo-two-twoo/Wireshark-twoo-twooo-two-twoo.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/St3g0/St3g0.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Pitter-Patter-Platters.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/advanced-potion-making/advanced-potion-making.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Redaction-gone-wrong/Redaction-gone-wrong.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Lookey-here/Lookey-here.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Disk, disk, sleuth! II.md"
+    "Parciales/Parcial-02/Parte-4-Forensic-2/St3g0/St3g0.md"
   ]
 }
