@@ -11,13 +11,32 @@
             "id": "176e63d583aacb97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Retos-PicoCTF/Binary-Explotation/Parte-02/buffer-overflow-1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "buffer-overflow-1"
+            }
+          },
+          {
+            "id": "538035ea6b6a9664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clutter-overflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +177,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c16c61dbe342737",
+  "active": "538035ea6b6a9664",
   "lastOpenFiles": [
+    "Retos-PicoCTF/Binary-Explotation/Parte-02/buffer-overflow-1.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow/chall",
+    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow/chall.c",
+    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow",
+    "Retos-PicoCTF/Plantilla.md",
+    "README.md",
+    "Retos-PicoCTF/Binary-Explotation/Parte-02",
     "Retos-PicoCTF/Binary-Explotation/Parte-01",
     "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks.md",
     "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak.md",
@@ -170,13 +197,7 @@
     "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS/game-redacted.c",
     "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS",
     "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak/vuln.c",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak/vuln",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak",
     "Retos-PicoCTF/Binary-Explotation/Parte-01/buffer overflow 0.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/basic-file-exploit/program-redacted.c",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/basic-file-exploit",
-    "Retos-PicoCTF/Plantilla.md",
-    "Retos-PicoCTF/Binary-Explotation",
     "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher.md",
     "imagenes/reverse.jpeg",
     "imagenes/reverse(1).jpeg",
@@ -202,9 +223,6 @@
     "Parciales/Parcial-02/Parte-2-Web-2/Who-are-you.md",
     "imagenes/Who-are-you(6).png",
     "Parciales/Parcial-02/Parte-2-Web-2/Resueltos-anteriormente.md",
-    "Parciales/Parcial-02/Parte-2-Web-2/Java-Code-Analysis.md",
-    "Parciales/Parcial-02/Parte-2-Web-2/It-is-my-Birthday/It-is-my-Birthday.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/Wireshark-twoo-twooo-two-twoo/Wireshark-twoo-twooo-two-twoo.md",
-    "Parciales/Parcial-02/Parte-4-Forensic-2/St3g0/St3g0.md"
+    "Parciales/Parcial-02/Parte-2-Web-2/Java-Code-Analysis.md"
   ]
 }
