@@ -162,9 +162,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac713401ace7dbf1",
+  "active": "6c16c61dbe342737",
   "lastOpenFiles": [
+    "imagenes/unpackme4.png",
+    "imagenes/unpackme3.png",
+    "imagenes/unpackme2.png",
+    "Parciales/Parcial-03/Parte-04/unpackme.md",
     "Parciales/Parcial-03/Parte-04/unpackme-py.md",
+    "Parciales/Parcial-03/Parte-04/GDB-baby-step-4.md",
+    "imagenes/unpackme.png",
     "Parciales/Parcial-03/Parte-04/unpackme-py/sc.py",
     "Parciales/Parcial-03/Parte-04/unpackme-py/scc.py",
     "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography-43.0.3.dist-info/REQUESTED",
@@ -175,10 +181,8 @@
     "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/name.cpython-313.pyc",
     "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/general_name.cpython-313.pyc",
     "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/extensions.cpython-313.pyc",
-    "Parciales/Parcial-03/Parte-04/unpackme.md",
     "Parciales/Parcial-03/Parte-04/Resuelto-Anteriormente.md",
     "Parciales/Parcial-03/Parte-04/keygenme-py.md",
-    "Parciales/Parcial-03/Parte-04/GDB-baby-step-4.md",
     "Parciales/Parcial-03/Parte-04/GDB-baby-step-3.md",
     "imagenes/GDB4.png",
     "Parciales/Parcial-03/Parte-04/GDB-baby-step-2.md",
@@ -199,16 +203,12 @@
     "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_xor.png",
     "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_or.png",
     "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_not.png",
-    "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_and.png",
     "Parciales/Parcial-03/Parte-02/Play-Nice.md",
-    "imagenes/PlayNice.png",
     "imagenes/Play-Nice.png.md",
-    "imagenes/Vigenere.png",
     "Parciales/Parcial-03/Parte-02/Vigenere.md",
     "Parciales/Parcial-03/Parte-02/substitution2.md",
     "Parciales/Parcial-03/Parte-02/rotation.md",
     "Parciales/Parcial-03/Parte-02/substitution0.md",
-    "Parciales/Parcial-03/Parte-02/substitution1.md",
-    "Parciales/Parcial-03/Parte-01/No-Padding-No-Problem.md"
+    "Parciales/Parcial-03/Parte-02/substitution1.md"
   ]
 }
