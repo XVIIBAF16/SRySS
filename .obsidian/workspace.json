@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "21bb693bd7b61916",
+        "id": "0d8a0eeb1290aa34",
         "type": "tabs",
         "children": [
           {
-            "id": "176e63d583aacb97",
+            "id": "ac713401ace7dbf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-PicoCTF/Binary-Explotation/Parte-02/buffer-overflow-1.md",
+                "file": "Parciales/Parcial-03/Parte-04/unpackme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buffer-overflow-1"
-            }
-          },
-          {
-            "id": "538035ea6b6a9664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "clutter-overflow"
+              "title": "unpackme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,52 +162,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "538035ea6b6a9664",
+  "active": "ac713401ace7dbf1",
   "lastOpenFiles": [
-    "Retos-PicoCTF/Binary-Explotation/Parte-02/buffer-overflow-1.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow/chall",
-    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow/chall.c",
-    "Retos-PicoCTF/Binary-Explotation/Parte-02/clutter-overflow",
-    "Retos-PicoCTF/Plantilla.md",
-    "README.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-02",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/basic-file-exploit.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks/vuln.c",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/Stonks",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS.md",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS/game-redacted.c",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/RPS",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/flag-leak/vuln.c",
-    "Retos-PicoCTF/Binary-Explotation/Parte-01/buffer overflow 0.md",
-    "Retos-PicoCTF/Reversing/Parte-04/reverse-cipher.md",
-    "imagenes/reverse.jpeg",
-    "imagenes/reverse(1).jpeg",
-    "imagenes/NFS.jpeg",
-    "Retos-PicoCTF/Reversing/Parte-04/Need-For-Speed.md",
-    "Retos-PicoCTF/Reversing/Parte-04/GDB-Test-Drive.md",
-    "Retos-PicoCTF/Reversing/Parte-04/asm4.md",
-    "imagenes/NFS(3).jpeg",
-    "imagenes/NFS(1).jpeg",
-    "imagenes/GDB.jpeg",
-    "imagenes/GDB(1).jpeg",
-    "imagenes/Milkslap.png",
-    "Retos-PicoCTF/Forensic/Milkslap/Milkslap.md",
-    "Retos-PicoCTF/Forensic/Milkslap/concat_v.png",
-    "Retos-PicoCTF/Forensic/WebNet0/WebNet0.md",
-    "Retos-PicoCTF/Reversing/Parte-03/asm3.md",
-    "Retos-PicoCTF/Reversing/Parte-03/asm2.md",
-    "Retos-PicoCTF/Reversing/Parte-03/asm1.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-5.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-4.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-3.md",
-    "Retos-PicoCTF/Reversing/Parte-01/vault-door-1.md",
-    "Parciales/Parcial-02/Parte-2-Web-2/Who-are-you.md",
-    "imagenes/Who-are-you(6).png",
-    "Parciales/Parcial-02/Parte-2-Web-2/Resueltos-anteriormente.md",
-    "Parciales/Parcial-02/Parte-2-Web-2/Java-Code-Analysis.md"
+    "Parciales/Parcial-03/Parte-04/unpackme-py.md",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/sc.py",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/scc.py",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography-43.0.3.dist-info/REQUESTED",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography-43.0.3.dist-info/INSTALLER",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/verification.cpython-313.pyc",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/oid.cpython-313.pyc",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/ocsp.cpython-313.pyc",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/name.cpython-313.pyc",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/general_name.cpython-313.pyc",
+    "Parciales/Parcial-03/Parte-04/unpackme-py/env/lib/python3.13/site-packages/cryptography/x509/__pycache__/extensions.cpython-313.pyc",
+    "Parciales/Parcial-03/Parte-04/unpackme.md",
+    "Parciales/Parcial-03/Parte-04/Resuelto-Anteriormente.md",
+    "Parciales/Parcial-03/Parte-04/keygenme-py.md",
+    "Parciales/Parcial-03/Parte-04/GDB-baby-step-4.md",
+    "Parciales/Parcial-03/Parte-04/GDB-baby-step-3.md",
+    "imagenes/GDB4.png",
+    "Parciales/Parcial-03/Parte-04/GDB-baby-step-2.md",
+    "imagenes/GDB3.png",
+    "imagenes/GDB2.png",
+    "Parciales/Parcial-03/Parte-01/Flags.md",
+    "Parciales/Parcial-03/Parte-01/john_pollard.md",
+    "Parciales/Parcial-03/Parte-03/GDB-baby-step-1.md",
+    "Parciales/Parcial-03/Parte-03/crackme-py.md",
+    "Parciales/Parcial-03/Parte-03/Bit-O-Asm-4.md",
+    "Parciales/Parcial-03/Parte-03/Bit-O-Asm-3.md",
+    "Parciales/Parcial-03/Parte-03/Bit-O-Asm-2.md",
+    "Parciales/Parcial-03/Parte-03/Bit-O-Asm-1.md",
+    "Parciales/Parcial-03/Parte-03/ASCII-FTW.md",
+    "imagenes/ASCII-FTW.png",
+    "Parciales/Parcial-03/Parte-01/Mr-Worldwide.md",
+    "Parciales/Parcial-03/Parte-02/SRA.md",
+    "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_xor.png",
+    "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_or.png",
+    "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_not.png",
+    "Parciales/Parcial-03/Parte-02/SRA/env/lib/python3.13/site-packages/sympy/plotting/tests/test_region_and.png",
+    "Parciales/Parcial-03/Parte-02/Play-Nice.md",
+    "imagenes/PlayNice.png",
+    "imagenes/Play-Nice.png.md",
+    "imagenes/Vigenere.png",
+    "Parciales/Parcial-03/Parte-02/Vigenere.md",
+    "Parciales/Parcial-03/Parte-02/substitution2.md",
+    "Parciales/Parcial-03/Parte-02/rotation.md",
+    "Parciales/Parcial-03/Parte-02/substitution0.md",
+    "Parciales/Parcial-03/Parte-02/substitution1.md",
+    "Parciales/Parcial-03/Parte-01/No-Padding-No-Problem.md"
   ]
 }
